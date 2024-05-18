@@ -1,3 +1,10 @@
+# Preview:
+![image](https://github.com/harishakaharu/jobDashboard_Native/assets/92537253/6304d501-2bde-4359-92bc-2178ad811d25)
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
