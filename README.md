@@ -1,10 +1,10 @@
 # Preview:
-
+![Screenshot_20240518-223846](https://github.com/harishakaharu/jobDashboard_Native/assets/92537253/e4d481b3-6326-472b-a768-39cac7a8d08c)
 
 ![Screenshot_20240518-223931](https://github.com/harishakaharu/jobDashboard_Native/assets/92537253/dd7c2671-5199-4eac-aeb7-0fe2c8536ec4)
 ![Screenshot_20240518-223911](https://github.com/harishakaharu/jobDashboard_Native/assets/92537253/13ef686e-f01d-4bc7-bf37-ac7401214c63)
 ![Screenshot_20240518-223855](https://github.com/harishakaharu/jobDashboard_Native/assets/92537253/e003c5ed-e658-4fd0-b849-3ce56592eea2)
-![Screenshot_20240518-223846](https://github.com/harishakaharu/jobDashboard_Native/assets/92537253/e4d481b3-6326-472b-a768-39cac7a8d08c)
+
 
 
 
